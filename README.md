@@ -21,7 +21,11 @@ Jupyter Notebook
 
 Project Structure
 data/: Contains the dataset used for training and testing.
+
 notebooks/: Jupyter notebooks used for analysis and model training.
+
 models/: Serialized models and any related files.
+
 scripts/: Python scripts for data preprocessing, model training, and prediction.
+
 README.md: Project description and instructions.
